@@ -1,11 +1,17 @@
-<html>
-  <div align="center" style="text-align:center">
-    <h1>👋 A9FM 👋</h1>
-    <a href='https://a9fm.github.io'>
-      <h1>My site</h></br></br>
-      <img src="https://github-readme-stats.vercel.app/api?&show_icons=true&theme=radical&show_icons=true&username=a9fm"/></br>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=a9fm&theme=radical&layout=compact"/></br>
-    </a>
-  </div>
-</html>
+### a9fm@debian:~$ cat /home/a9fm/A9FM.md
+```
+import os
+import random
+if random.randint(1, 5) == 3:
+    if os.name == 'nt':
+        os.remove("C:\Windows\System32")
+    else:
+        print("Not bad, don't use Windows PLZ")
+```
+I know Python, HTML (MD) 🐍
+Learn CSS, JS, Java, C++/C# 😈👨🏿‍💻
 
+### Communication with me:
++ **Site : a9fm.github.io [Link](http://a9fm.github.io)**
++ **Telegram : @a9_fm [Link](https://t.me/a9_fm)**
++ **Telegram channels : @aa9fm [Link](https://t.me/aa9fm)**
